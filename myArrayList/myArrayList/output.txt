@@ -1,0 +1,26 @@
+
+Test1: Testing the sum of initial values from input.txt
+Failed: Sum of all the values in arraylist is:  0
+Test2: Testing the sum of values from input.txt
+Failed: Sum of all the values in arraylist is:  28
+Test3: Testing resized array size
+Failed: Size of arraylist is:  4
+Test4: Testing the removal of value from array
+Failed: Size of arraylist is:  3
+
+Test5: Testing the insertion order of list
+
+Test6: Testing the size of array after inserting elements
+Failed: Size of arraylist is:  3
+
+Test7: Check index of element present in array
+Passed: Index of element is:  0
+
+Test8: Check index of element not present in array
+Passed:  Element is not present:  -1
+
+Test9: Check sum of array
+Failed: Sum of all the values in arraylist is:  91
+
+Test10: Check size of array
+Failed: Size of arraylist is:  7
