@@ -160,46 +160,6 @@ overwrite the file everytime you run the code. You should NOT hardcode
 input.txt and output.txt as the file names in your implementation.
 
 -----------------------------------------------------------------------
-
-###IMPORTANT GUIDELINES###
-
-1. Make sure you clean your project before you submit it. There
-shouldn't be any executables or .class files.
-
-2. You are NOT supposed to include input.txt and output.txt files
-along with your submission. We would use a different input file to run
-and test your code. Your code must run for any input file.
-
-3. Any violation in the specifications given would lead to you losing
-points. Make sure you follow the directory structure given in the
-requirements page.
-
-Please drop me an email if you aren't able to proceed with the ANT
-commands or are unclear with anything regarding the assignment. Also,
-make sure you keep updating the code to bitbucket repository on a
-timely basis.
-
-mgovinda at binghamton dot edu
-Back to Programming Design Patterns
-
-Total Points: 50
-•	
-•	Correct user of git: 10 points
-o	3 points: at least 8 commits in total.
-o	4 points: 5 commits 72 hours before the submission deadline.
-o	3 points: meaningful commit messages for each commit.
-o	If more than 50% of the number of lines of code is committed in the last 24 hours: -5 points
-o	If more than 50% of the number of lines of code is committed in the last 48 hours: -2.5 points
-•	gzip has been created correctly (no executables, .class, backup file, or jar files): 5 points
-•	Code compiles and runs according to the instructions in the assignment (which should be the same in the README.txt): 5 points.
-•	Code generates valid output for the test cases: 20 points
-•	Documentation for each method (just the return type) using javadoc style: 3 points
-•	Command line arguments are validated: boundary conditions checks for missing input and output file names and if the provided input file does not exist: 7 points
-•	Penalty for any exception that is not handled, including the ones while parsing the command line arguments: -5 points each time
-
-
-
------------------------------------------------------------------------
 ### Justification
 -----------------------------------------------------------------------
 #### I used a list data structure as it keeps storing input data as it arrives.
